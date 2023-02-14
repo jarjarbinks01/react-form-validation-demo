@@ -350,7 +350,7 @@ i {
 }
 
 #contact-form p:last-child button[type="button"] {
-  color: inherit;
+  color: red;
 }
 
 #zero-state {

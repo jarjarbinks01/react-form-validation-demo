@@ -55,7 +55,7 @@ export default function Contact() {
           </p>
         )}
 
-        {contact.notes && <p>{contact.notes}</p>}
+        {contact.email && <p>{contact.email}</p>}
 
         <div>
           <Form action="edit">
